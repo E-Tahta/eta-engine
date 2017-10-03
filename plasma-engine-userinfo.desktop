@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=User Info Engine
+Comment=Gets current user information from system
+Type=Service
+ 
+X-KDE-ServiceTypes=Plasma/DataEngine
+X-KDE-Library=plasma_engine_userinfo
+X-Plasma-EngineName=testtime
+X-KDE-PluginInfo-Author=Yunusemre Şentürk
+X-KDE-PluginInfo-Email=yunusemre.senturk@pardus.org.tr
+X-KDE-PluginInfo-Name=userinfo
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://www.pardus.org.tr/
+X-KDE-PluginInfo-Category=Examples
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
